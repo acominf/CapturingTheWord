@@ -1,7 +1,8 @@
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
-//holi soy Ivonne
+![Circus circus II]("C:\Users\PcUsuario\Desktop\CircusCircus2\images\backg.jpg")
+
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+Circus circus II - Capturing The Word es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres
+niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente
 
 ### Descripción del juego/aplicación
 La descripción del juego/aplicación es ...
