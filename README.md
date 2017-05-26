@@ -1,37 +1,29 @@
 ![Circus circus II]("C:\Users\PcUsuario\Desktop\CircusCircus2\images\backg.jpg")
 
-### Objetivo del juego/aplicación
-Circus circus II - Capturing The Word es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres
-niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente
+### Objetivo:
+Circus circus II - Capturing The Word es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente.
 
-### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+### Descripción:
+Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar la respuesta correcta evitando a toda costa a sus enemigos, los cuáles impedirán que nuestro heroe llegue al final, quitándole vidas cada vez que lo toquen. Se maneja con las flechas del teclado y el juego acaba cuando el jugador llega al final o cuando pierde las 5 vidas.
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Personaje
+* Se controla el movimiento del personaje y la forma en como aparecen los enemigos que interactuarán en el escenario.
+* Se llevan a cabo las acciones que ocurren cuando interactuan los personajes. 
+* Se lleva el control de las vidas del personaje.
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. Sentence
+* Se controla la forma en que van apareciendo las opciones así como la oración.
+* Sirve como modulador que engoblan todas las opciones de los niveles.
+* Se llevan a cabo los 3 niveles del juego.
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Clases de las opciones
+* En éstas clases se guardan las imágenes de cada una de las 3 opciones de respuestas que se van a mostrar.
+* Posiciona la imágen del arreglo de imágenes que posee de acuerdo a la posición que se mande.
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
-
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+4. Clases  de las oraciones
+* En éstas clases se guardan todas las imágenes de oraciones que hay.
+* Posiciona la imágen del arreglo de imágenes que posee de acuerdo a la posición que se mande.
 
 ### Diagrama de clases
 ![Diagrama de clases](url-del-diagrama.png)
