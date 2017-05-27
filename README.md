@@ -30,7 +30,7 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 
 ### Autores
 El autor(es) del proyecto son:
-- Zuraya Ivonne López Ortíz (@nombreUsuario)
+- Zuraya Ivonne López Ortíz (@ivonne13)
 - Luis Cisneros Torres (@Luis249)
 
 ### Materias
