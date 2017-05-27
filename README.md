@@ -1,4 +1,4 @@
-![Circus circus II](http://imgur.com/OYyAxgA)
+![Circus circus II](http://i.imgur.com/OYyAxgA.jpg)
 
 ### Objetivo:
 Circus circus II - Capturing The Word es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente.
