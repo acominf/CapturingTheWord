@@ -26,7 +26,7 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 * Posiciona la imágen del arreglo de imágenes que posee de acuerdo a la posición que se mande.
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+![Diagrama de clases](http://i.imgur.com/JWUsut4.png)
 
 ### Autores
 Los autores del proyecto son:
