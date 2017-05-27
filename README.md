@@ -21,7 +21,7 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 * En éstas clases se guardan las imágenes de cada una de las 3 opciones de respuestas que se van a mostrar.
 * Posiciona la imágen del arreglo de imágenes que posee de acuerdo a la posición que se mande.
 
-4. Clases  de las oraciones
+**_4. Clases  de las oraciones_**
 * En éstas clases se guardan todas las imágenes de oraciones que hay.
 * Posiciona la imágen del arreglo de imágenes que posee de acuerdo a la posición que se mande.
 
@@ -29,7 +29,7 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 ![Diagrama de clases](url-del-diagrama.png)
 
 ### Autores
-El autor(es) del proyecto son:
+Los autores del proyecto son:
 - Zuraya Ivonne López Ortíz (@ivonne13)
 - Luis Cisneros Torres (@Luis249)
 
