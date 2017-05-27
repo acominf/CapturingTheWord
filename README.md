@@ -1,7 +1,7 @@
 ![Circus circus II](http://i.imgur.com/OYyAxgA.jpg)
 
 ### Objetivo
-Circus circus II - Capturing The Word es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente.
+Circus circus II _"Capturing The Word"_ es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente.
 
 ### Descripción
 Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar la respuesta correcta evitando a toda costa a sus enemigos, los cuáles impedirán que nuestro heroe llegue al final, quitándole vidas cada vez que lo toquen. Se maneja con las flechas del teclado y el juego acaba cuando el jugador llega al final o cuando pierde las 5 vidas.
@@ -30,8 +30,8 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 
 ### Autores
 Los autores del proyecto son:
-- Zuraya Ivonne López Ortíz (@ivonne13)
-- Luis Cisneros Torres (@Luis249)
+- Zuraya Ivonne López Ortíz (_@ivonne13_)
+- Luis Cisneros Torres (_@Luis249_)
 
 ### Materias
 - Programación Orientada a Objetos
