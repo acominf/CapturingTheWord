@@ -41,6 +41,3 @@ Los autores del proyecto son:
 - 2016-2017/II
 
 ### Universidad Autónoma de San Luis Potosí, 2017
-
-### Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado _Markdown_. **Para modificar el contenido de esta página se tiene que editar el archivo README.md del repositorio**. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
