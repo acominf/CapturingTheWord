@@ -1,4 +1,4 @@
-![Circus circus II](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/backg.jpg)
+![Circus circus II](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/backg.jpg)
 
 ### Objetivo
 Circus circus II _"Capturing The Word"_ es un juego en el cuál se pretende fomentar el aprendizaje del inglés, a través de tres niveles en los cuáles el personaje se tendrá que encontrar la traducción o conjugación del verbo o phrasal verb que se presente.
@@ -28,18 +28,18 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 ### Personajes
 * Personaje
 
-![Monito](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/sideR1.png)
+![Monito](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/sideR1.png)
 
 * Chango
 
-![Chango](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/monkey1.png)
+![Chango](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/monkey1.png)
 
 * Nave
 
-![Nave](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/nave.png)
+![Nave](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/nave.png)
 
 ### Diagrama de clases
-![Diagrama de clases](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/Juego.png)
+![Diagrama de clases](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/Juego.png)
 
 ### Autores
 Los autores del proyecto son:
