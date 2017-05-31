@@ -26,15 +26,15 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 * Posiciona la imágen del arreglo de imágenes que posee de acuerdo a la posición que se mande.
 
 ### Personajes
-* Personaje
+* Payasito: Personaje principal de este juego.
 
 ![Monito](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/sideR1.png)
 
-* Chango
+* Chango: Enemigo, quita vidas y se mueve en coordenadas de x.
 
 ![Chango](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/monkey1.png)
 
-* Nave
+* Nave: Enemigo, quita vidas y se mueve en coordenadas en y.
 
 ![Nave](https://raw.githubusercontent.com/acominf/CapturingTheWord/master/Imagenes/nave.png)
 
