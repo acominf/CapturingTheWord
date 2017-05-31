@@ -28,15 +28,15 @@ Este juego consiste en un personaje principal cuyo objetivo es lograr encontrar 
 ### Personajes
 * Personaje
 
-        ![Monito](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/sideR1.png)
+![Monito](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/sideR1.png)
 
 * Chango
 
-        ![Chango](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/monkey1.png)
+![Chango](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/monkey1.png)
 
 * Nave
 
-        ![Nave](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/nave.png)
+![Nave](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/nave.png)
 
 ### Diagrama de clases
 ![Diagrama de clases](https://github.com/acominf/CapturingTheWord/blob/master/Imagenes/Juego.png)
